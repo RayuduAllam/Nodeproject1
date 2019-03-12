@@ -17,7 +17,7 @@ node {
         
         app.inside {
             echo "Tests passed"
-        }
+        }*/
     }
 
     stage('Push image') {
